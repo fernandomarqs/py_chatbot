@@ -29,7 +29,7 @@ O chatbot implementado faz uso da API do OpenAI, especificamente o modelo "gpt-3
 
 Resultados da Avaliação:
     
-    O chatbot implementado é simples e eficaz na resposta a perguntas específicas. Ele é capaz de responder a perguntas com base nas informações contidas no texto do arquivo PDF. No entanto, o chatbot apresenta algumas limitações em relação à compreensão de contexto. Ele não é capaz de manter conversas longas ou entender o contexto mais amplo das interações. A eficácia do chatbot depende da qualidade e relevância das informações presentes no PDF e das perguntas feitas pelos usuários.
+O chatbot implementado é simples e eficaz na resposta a perguntas específicas. Ele é capaz de responder a perguntas com base nas informações contidas no texto do arquivo PDF. No entanto, o chatbot apresenta algumas limitações em relação à compreensão de contexto. Ele não é capaz de manter conversas longas ou entender o contexto mais amplo das interações. A eficácia do chatbot depende da qualidade e relevância das informações presentes no PDF e das perguntas feitas pelos usuários.
 
 Para testar o chatbot:
 
