@@ -1,7 +1,7 @@
 # py_chatbot
-Basic machine learning project to learn about how a chatbot works and how to use OpenAI's bot / langchain / steamlit.
 
-Relatório sobre o projeto:
+**Relatório sobre o projeto:**
+
 Detalhes da Implementação:
 
 O chatbot implementado faz uso da API do OpenAI, especificamente o modelo "gpt-3.5-turbo". A implementação é baseada na biblioteca Streamlit e inclui a utilização de outras bibliotecas Python, como PyPDF2 para a extração de texto de um arquivo PDF. Os detalhes da implementação são os seguintes:
