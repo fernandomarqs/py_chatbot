@@ -31,14 +31,12 @@ Resultados da Avaliação:
 
 O chatbot implementado é simples e eficaz na resposta a perguntas específicas. Ele é capaz de responder a perguntas com base nas informações contidas no texto do arquivo PDF. No entanto, o chatbot apresenta algumas limitações em relação à compreensão de contexto. Ele não é capaz de manter conversas longas ou entender o contexto mais amplo das interações. A eficácia do chatbot depende da qualidade e relevância das informações presentes no PDF e das perguntas feitas pelos usuários.
 
-Como Testá-lo:
-
 Para testar o chatbot:
 
-    Obtenha uma chave de API do OpenAI e substitua <YOUR-API-KEY-HERE> no código pelo seu token de API.
+    Obtenha uma chave de API do OpenAI e substitua <YOUR-API-KEY-HERE> no código pelo seu token de API
 
-    Execute o comando "streamlit run chatbot.py" no terminal para iniciar o chatbot.
+    Execute o comando "streamlit run chatbot.py" no terminal para iniciar o chatbot
 
-    Na interface do chatbot, digite sua pergunta na caixa de entrada e pressione Enter.
+    Na interface do chatbot, digite sua pergunta na caixa de entrada e pressione Enter
 
-    O chatbot responderá com uma mensagem que contém a resposta à sua pergunta.
+    O chatbot responderá com uma mensagem que contém a resposta à sua pergunta
